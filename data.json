@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "img": "",
+        "nombre": "Proteina",
+        "precio": 50,
+        "proteina": 30
+
+    },
+    {
+        "id": 2,
+        "img": "",
+        "nombre": "creatina",
+        "precio": 100,
+        "proteina": 25
+    },
+    {
+        "id": 3,
+        "img": "",
+        "nombre": "Pack barras",
+        "precio": 40,
+        "proteina": 15
+    },
+    {
+        "id": 4,
+        "img": "",
+        "nombre": "Pre entreno",
+        "precio": 3,
+        "proteina": 5
+    },
+    {
+        "id": 5,
+        "img": "",
+        "nombre": "Bebida proteica",
+        "precio": 20,
+        "proteina": 15
+    },
+    {
+        "id": 6,
+        "img": "",
+        "nombre": "Panqueque proteico",
+        "precio": 10,
+        "proteina": 15
+    },
+    {
+        "id": 7,
+        "img": "",
+        "nombre": "Helado proteico",
+        "precio": 40,
+        "proteina": 20
+    },
+    {
+        "id": 8,
+        "img": "",
+        "nombre": "Mantequilla de mani",
+        "precio": 25,
+        "proteina": 34
+    }
+]
