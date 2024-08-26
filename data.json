@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "img": "",
+        "img": "https://www.tushop.uy/imgs/productos/productos31_14492.jpg",
         "nombre": "Proteina",
         "precio": 50,
         "proteina": 30
@@ -9,49 +9,49 @@
     },
     {
         "id": 2,
-        "img": "",
-        "nombre": "creatina",
+        "img": "https://workupsuplementos.com/web/image/product.template/23262/image_256/CREATINA%20MICRONIZADA%20X%20300G%20-%20GENERATION%20FIT?unique=a0d1e6a",
+        "nombre": "Creatina",
         "precio": 100,
         "proteina": 25
     },
     {
         "id": 3,
-        "img": "",
+        "img": "https://simplicityar.vtexassets.com/arquivos/ids/177381-256-256?v=638417810512200000&width=256&height=256&aspect=true",
         "nombre": "Pack barras",
         "precio": 40,
         "proteina": 15
     },
     {
         "id": 4,
-        "img": "",
+        "img": "https://workupsuplementos.com/web/image/product.template/23360/image_256/PRE%20ENTRENO%20ULTRA%20PREDATOR%20X%20300G%20-%20GENERATION%20FIT?unique=e81f3ee",
         "nombre": "Pre entreno",
         "precio": 3,
         "proteina": 5
     },
     {
         "id": 5,
-        "img": "",
+        "img": "https://images.rappi.com.ec/products/43ea81d1-e29c-42cc-af14-c1255660234f.png?e=webp&q=80&d=130x130",
         "nombre": "Bebida proteica",
         "precio": 20,
         "proteina": 15
     },
     {
         "id": 6,
-        "img": "",
+        "img": "https://images.rappi.com.ar/products/1690396278844_1690396276677_1690396275751.jpg?e=webp&q=80&d=130x130",
         "nombre": "Panqueque proteico",
         "precio": 10,
         "proteina": 15
     },
     {
         "id": 7,
-        "img": "",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY3Q_S3kNHsVT526jxjIvum98j52wW2YiMKQ&s",
         "nombre": "Helado proteico",
         "precio": 40,
         "proteina": 20
     },
     {
         "id": 8,
-        "img": "",
+        "img": "https://images.pricely.ar/images/14/7798165593347.jpg",
         "nombre": "Mantequilla de mani",
         "precio": 25,
         "proteina": 34
